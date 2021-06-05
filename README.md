@@ -23,7 +23,11 @@ npm start
 
 [Site](https://www.natanet.xyz/)
 
+Tecnologias utilizadas
+
+React
+
 
 # natantube
-By @Alura
+@Alura
 
