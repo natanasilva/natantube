@@ -19,8 +19,11 @@ npm start
 ```
 
 Tecnologias:
+
 React
+
 Contato [natan](http://natanet.xyz)
+
 # natantube
 By @Alura
 
