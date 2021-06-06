@@ -1,9 +1,9 @@
-# Aluraflix
+# NatanTube
 
-[![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/imersao-alura/aluraflix/blob/master/LICENSE)
+[![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/natanasilva/natantube/blob/master/LICENSE)
 
 <p align="center">
-  <img alt="Logo do projeto" width="150px" src="https://www.alura.com.br/assets/img/imersoes/react/imersao-react-logo.1594044142.svg" />
+  <img alt="Logo do projeto" width="150px" src="https://play-lh.googleusercontent.com/Nkfssvv_KFyyWqFJMy-M3b3ozXKYbhfiFm91K6BPEFh4IwpOe6D-ssMMs_aOSf_evIh6=w412-h732-rw" />
 </p>
 
 > Projeto construido durante a [Imersão React da Alura](https://www.alura.com.br/imersao-react/)
@@ -19,9 +19,7 @@ npm start
 ```
 
 ## Contate-me
-[Linkedin](https://www.linkedin.com/in/nataniel-de-aguiar-da-silva-a5574584/)
-
-Redes Sociais: [Facebook](https://www.fb.com/natanasilva) | [Twitter](https://www.twitter.com/natan_asilva) | [Instagram](https://www.instagram.com/natanasilva)
+Redes Sociais: [Facebook](https://www.fb.com/natanasilva) | [Twitter](https://www.twitter.com/natan_asilva) | [Instagram](https://www.instagram.com/natanasilva) | [Linkedin](https://www.linkedin.com/in/nataniel-de-aguiar-da-silva-a5574584/)
 
 Tecnologias utilizadas
 
@@ -30,3 +28,4 @@ React
 
 # natantube
 @Alura
+
