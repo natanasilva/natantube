@@ -21,7 +21,7 @@ npm start
 ## Contate-me
 [Linkedin](https://www.linkedin.com/in/nataniel-de-aguiar-da-silva-a5574584/)
 
-[Redes Sociais](https://www.fb.com/natanasilva) | 
+Redes Sociais: [Facebook](https://www.fb.com/natanasilva) | [Twitter](https://www.twitter.com/natan_asilva) | [Instagram](https://www.instagram.com/natanasilva)
 
 Tecnologias utilizadas
 
