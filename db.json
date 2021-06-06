@@ -1,21 +1,220 @@
 {
   "categorias": [
     {
-      "id": 1,
-      "titulo": "Front End",
-      "cor": "#6BD1FF",
+      "titulo": "Filmes - Lançamentos",
+      "cor": "#EA465C",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
-      }
-    }
-   ],
-  "videos": [
+      "text": "Novidades sobre os filmes nacionais e internacionais",
+      "url": "http://localhost:3000/#"
+      },
+      "videos": [
+        {
+          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=VsiOF587wY0"
+        },
+        {
+          "titulo": "TEMPO Trailer Brasileiro LEGENDADO (Terror, 2021)",
+          "url": "https://www.youtube.com/watch?v=0YsVK2rBrZo"
+        },
+        {
+          "titulo": "INFINITE Trailer (2021) Mark Wahlberg",
+          "url": "https://www.youtube.com/watch?v=7itx77pM0X4"
+        },
+        {
+          "titulo": "LOKI - Loki é Esbofeteado Trailer Português",
+          "url": "https://www.youtube.com/watch?v=cZ800ypQErg"
+        },
+        {
+          "titulo": "THE CONJURING 3 A OBRA DO DIABO Trailer Final",
+          "url": "https://www.youtube.com/watch?v=SSeZwFY9swE"
+        },
+        {
+          "titulo": "CAMINHOS DA MEMÓRIA Trailer Brasileiro",
+          "url": "https://www.youtube.com/watch?v=L-NTvMU1juQ"
+        },
+        {
+          "titulo": "PATRULHA CANINA: O FILME Trailer Brasileiro",
+          "url": "https://www.youtube.com/watch?v=0ck_VOH6pcU"
+        },
+        {
+          "titulo": "INFINITE Trailer 2 (2021) Mark Wahlberg",
+          "url": "https://www.youtube.com/watch?v=LosYJ9HA6mw"
+        }        
+      ]
+    },
     {
-      "id": 1,
-      "categoriaId": 1,
-      "titulo": "SEO com React",
-      "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+      "titulo": "Vídeos Engraçados",
+      "cor": "#6B46EA",
+      "link_extra": {
+      "text": "Os melhores vídeos pra você se divertir com a sua família!",
+      "url": "http://localhost:3000/#"
+      },
+      "videos": [
+        {
+          "titulo": "Dia ruim? melhor assistir isso 😂",
+          "url": "https://www.youtube.com/watch?v=TEx0RfFEA5c"
+        },
+        {
+          "titulo": "25 MOMENTOS MAIS EMBARRASSING NO ESPORTE",
+          "url": "https://www.youtube.com/watch?v=7rXaTy56hh0"
+        },
+        {
+          "titulo": "ELA NÃO SABIA QUE EXISTIAM CÂMERAS VEJA O QUE ELA FEZ!",
+          "url": "https://www.youtube.com/watch?v=VIZaGjn0sig"
+        },
+        {
+          "titulo": "Os Vídeos Mais Engraçados do Tiktok",
+          "url": "https://www.youtube.com/watch?v=VdoyaczGkXw"
+        }, 
+        {
+          "titulo": "ANIMAIS MAIS ENGRAÇADOS FALHAM! - Tente não rir DESAFIO!",
+          "url": "https://www.youtube.com/watch?v=3p5p3_wsJJ0"
+        }
+      ]
+    },
+    {
+      "titulo": "Vídeos sobre política",
+      "cor": "#52EA46",
+      "link_extra": {
+      "text": "A politica no mundo comtemporaneo",
+      "url": "http://localhost:3000/#"
+      },
+      "videos": [
+        {
+          "titulo": "Bolsonaro é vaiado após reunião de última hora no Ministério da Saúde",
+          "url": "https://www.youtube.com/watch?v=mO-2Golb66g"
+        },
+        {
+          "titulo": "Anitta encontra Juliette pela 1º vez e brinca: 'Vim cobrar teu aluguel'",
+          "url": "https://www.youtube.com/watch?v=NOJ0ozb5qCA"
+        },
+        {
+          "titulo": "Anvisa autoriza importação das vacinas Sputnik V e Covaxin",
+          "url": "https://www.youtube.com/watch?v=p1nY38ECoEQ"
+        },
+        {
+          "titulo": "Desmatamento cresce 41% na Amazônia em maio, aponta Inpe",
+          "url": "https://www.youtube.com/watch?v=DAQ1TQGr3uA"
+        },
+        {
+          "titulo": "Vendedora muçulmana diz em vídeo aceitar desculpas de médico brasileiro detido no Egito",
+          "url": "https://www.youtube.com/watch?v=RRgDAZUxfFI"
+        },
+        {
+          "titulo": "Pastor R.R. Soares está internado no Rio com covid-19",
+          "url": "https://www.youtube.com/watch?v=dRLrY7ff4Yk"
+        },
+        {
+          "titulo": "TRISTEZA! Projota lamenta triste perda e faz desabafo nas redes sociais",
+          "url": "https://www.youtube.com/watch?v=TPGU_CnCg1M"
+        }
+      ]
+    },
+    {
+      "titulo": "Vídeos sobre negócios",
+      "cor": "#46AEEA",
+	  "link_extra": {
+      "text": "O mundo dos negócios no Brasil e no exterior",
+      "url": "http://localhost:3000/#"
+      },
+      "videos": [
+        {
+          "titulo": "MÁQUINAS QUE CUSTAM MENOS DE 1000 REAIS E SÃO LUCRATIVAS!",
+          "url": "https://www.youtube.com/watch?v=Hv8VSevaVwY"
+        },
+        {
+          "titulo": "10 Dicas infalíveis para a gestão financeira dos pequenos negócios",
+          "url": "https://www.youtube.com/watch?v=YhK0jVYq4IY"
+        },
+        {
+          "titulo": "Tiago Brunet - Use o POUCO que você tem",
+          "url": "https://www.youtube.com/watch?v=wHsG4G3evWE"
+        },
+        {
+          "titulo": "BITCOIN: ESTÁ QUEBRANDO RECORDE DE QUEDA, POR QUÊ?",
+          "url": "https://www.youtube.com/watch?v=scyHESa2Lrs"
+        },
+        {
+          "titulo": "10 MINI FABRICAS Para Montar Com Pouco Dinheiro",
+          "url": "https://www.youtube.com/watch?v=KZ4rotZBkVE"
+        },
+        {
+          "titulo": "14 Negócios Lucrativos Para CIDADES PEQUENAS",
+          "url": "https://www.youtube.com/watch?v=12OyEz4pYWo"
+        }
+      ]
+    },
+    {
+      "titulo": "Vídeos sobre natureza",
+      "cor": "#CD8E20",
+      "link_extra": {
+      "text": "Os temas relevantes sobre a preservação ambiental",
+      "url": "http://localhost:3000/#"
+      },
+      "videos": [
+        {
+          "titulo": "Os Lugares Mais Raros da Terra Que São Extremamente Limpos",
+          "url": "https://www.youtube.com/watch?v=qkhsbglmVzw"
+        },
+        {
+          "titulo": "10 Momentos que provam que a Natureza é Inacreditável.",
+          "url": "https://www.youtube.com/watch?v=91cHzD4aaic"
+        },
+        {
+          "titulo": "Amazonas Selvagem Berco da Vida",
+          "url": "https://www.youtube.com/watch?v=Pb0V6IEQIjE"
+        },
+        {
+          "titulo": "10 Momentos que a Natureza vai te deixar Espantado",
+          "url": "https://www.youtube.com/watch?v=_uuoJJek9G8"
+        },
+        {
+          "titulo": "9 Coisas Reais Que Desafiam as Leis da Física",
+          "url": "https://www.youtube.com/watch?v=gzumpFCaogE"
+        },
+        {
+          "titulo": "7 vezes em que a natureza mostrou toda a sua força",
+          "url": "https://www.youtube.com/watch?v=y4mA0b1y67Y"
+        },
+        {
+          "titulo": "4 coisas que valem milhões e você nem imaginava",
+          "url": "https://www.youtube.com/watch?v=J9MfAH-bZGI"
+        }
+      ]
+    },
+    {
+      "titulo": "Vídeos sobre educação",
+      "cor": "#CD3520",
+      "link_extra": {
+        "text": "Os assuntos mais interessantes sobre o mundo educacional",
+      "url": "http://localhost:3000/#"
+      },
+      "videos": [
+        {
+          "titulo": "Educação na pandemia - Mario Sergio Cortella",
+          "url": "https://www.youtube.com/watch?v=Uj8qZsIfA-w"
+        },
+        {
+          "titulo": "Como educar em tempos de pandemia | Leandro Karnal",
+          "url": "https://www.youtube.com/watch?v=9eBpUbUlrPg"
+        },
+        {
+          "titulo": "Qual a função do Coordenador Pedagógico (Supervisor) nesta pandemia?",
+          "url": "https://www.youtube.com/watch?v=-UUjOBs6TpA"
+        },
+        {
+          "titulo": "As 10 Competências da BNCC | Pedagogia para Concurso",
+          "url": "https://www.youtube.com/watch?v=Z7QobESh0_0"
+        },
+        {
+          "titulo": "Escola ensina crianças a identificar 'fake news'",
+          "url": "https://www.youtube.com/watch?v=PblOIuUNukA"
+        },
+        {
+          "titulo": "Coronavírus? Explicando para crianças | Fundação José Luiz Egydio Setúbal",
+          "url": "https://www.youtube.com/watch?v=oug368Ih9Xc"
+        }
+      ]
     }
   ]
 }
