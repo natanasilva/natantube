@@ -3,10 +3,10 @@
 [![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/natanasilva/natantube/blob/master/LICENSE)
 
 <p align="center">
-  <img alt="Logo do projeto" width="150px" src="https://play-lh.googleusercontent.com/Nkfssvv_KFyyWqFJMy-M3b3ozXKYbhfiFm91K6BPEFh4IwpOe6D-ssMMs_aOSf_evIh6=w412-h732-rw" />
+  <img alt="Logo do projeto" width="450px" src="https://play-lh.googleusercontent.com/Nkfssvv_KFyyWqFJMy-M3b3ozXKYbhfiFm91K6BPEFh4IwpOe6D-ssMMs_aOSf_evIh6=w412-h732-rw" />
 </p>
 
-> Projeto construido durante a [Imersão React da Alura](https://www.alura.com.br/imersao-react/)
+> Projeto construido durante o curso de Interfaces Web com JavasCript utilizando as tecnologias utilizadas naa [Imersão React da Alura](https://www.alura.com.br/imersao-react/)
 
 
 ## Como rodar o projeto?
