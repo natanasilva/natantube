@@ -21,7 +21,7 @@ npm start
 ## Contate-me
 [Linkedin](https://www.linkedin.com/in/nataniel-de-aguiar-da-silva-a5574584/)
 
-[Site](https://www.natanet.xyz/)
+[Redes Sociais](https://www.fb.com/natanasilva) | 
 
 Tecnologias utilizadas
 
@@ -30,4 +30,3 @@ React
 
 # natantube
 @Alura
-
