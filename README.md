@@ -6,7 +6,7 @@
   <img alt="Logo do projeto" width="450px" src="https://play-lh.googleusercontent.com/Nkfssvv_KFyyWqFJMy-M3b3ozXKYbhfiFm91K6BPEFh4IwpOe6D-ssMMs_aOSf_evIh6=w412-h732-rw" />
 </p>
 
-> Projeto construido durante o curso de Interfaces Web com JavasCript utilizando as tecnologias utilizadas na [Imersão React da Alura](https://www.alura.com.br/imersao-react/)
+> Projeto construido durante o curso de Interfaces Web com JavaScript utilizando as tecnologias utilizadas na [Imersão React da Alura](https://www.alura.com.br/imersao-react/)
 
 
 ## Como rodar o projeto?
